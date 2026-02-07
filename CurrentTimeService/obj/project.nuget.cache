@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rZi0m+eaka8=",
+  "dgSpecHash": "6CsO8DxA/2c=",
   "success": true,
-  "projectFilePath": "C:\\Actions\\ci-cd-example\\CurrentTimeService\\CurrentTimeService.csproj",
+  "projectFilePath": "C:\\Actions\\ci-cd-current-time-service\\CurrentTimeService\\CurrentTimeService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xabier\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Xabier\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

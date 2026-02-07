@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurrentTimeService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da023bfcf546f6a985fa6c57f3671a8d237ccb25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68f9a53563c54f2f60c8230edb1084bede2c99b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurrentTimeService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurrentTimeService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
